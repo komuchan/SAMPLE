@@ -1,2 +1,1 @@
-# SAMPLE
-This is for GitHub practice.
+# Hello, Pull Request
